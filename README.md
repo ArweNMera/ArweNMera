@@ -140,7 +140,7 @@ Mi objetivo es seguir creciendo como futuro **Ingeniero de Sistemas**, participa
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArweNMera&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
