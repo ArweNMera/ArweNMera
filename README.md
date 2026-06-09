@@ -138,16 +138,13 @@ Mi objetivo es seguir creciendo como futuro **Ingeniero de Sistemas**, participa
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ArweNMera&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArweNMera&layout=compact&theme=tokyonight&hide_border=true" 
-    height="160"
-  />
-</p>
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ArweNMera&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ArweNMera&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+</div>
 
 ---
 
